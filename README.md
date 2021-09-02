@@ -1,4 +1,4 @@
-# expenseTracker
+# Expense Tracker
 Made an Expense Tracker using ReactJS
 
 USAGE
